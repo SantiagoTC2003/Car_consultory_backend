@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\webapicoches\\controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|solutionrelative:webapicoches\\controllers\\cochescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\webapicoches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|solutionrelative:webapicoches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\webapicoches\\views\\coches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35B9A2A0-DD45-495A-855C-A9A10180CEB0}|WebApiCoches\\WebApiCoches.csproj|solutionrelative:webapicoches\\views\\coches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC21CF3F-F92B-4922-9A85-F3EF488CC38D}|Negocio\\Negocio.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\negocio\\ilogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC21CF3F-F92B-4922-9A85-F3EF488CC38D}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ilogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556BC0EB-5718-408D-BD95-16D403D56A4F}|Entidades\\Entidades.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\entidades\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556BC0EB-5718-408D-BD95-16D403D56A4F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556BC0EB-5718-408D-BD95-16D403D56A4F}|Entidades\\Entidades.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\entidades\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556BC0EB-5718-408D-BD95-16D403D56A4F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\bitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF520E-A689-4BE2-9739-7FA1AC171845}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\accesodatos\\iaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AF520E-A689-4BE2-9739-7FA1AC171845}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\iaccesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF520E-A689-4BE2-9739-7FA1AC171845}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\admin\\source\\repos\\solucion_registro_coches_backend\\accesodatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AF520E-A689-4BE2-9739-7FA1AC171845}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesomongodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CochesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Controllers\\CochesController.cs",
+              "RelativeDocumentMoniker": "WebApiCoches\\Controllers\\CochesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Controllers\\CochesController.cs",
+              "RelativeToolTip": "WebApiCoches\\Controllers\\CochesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiCoches\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Program.cs",
+              "RelativeToolTip": "WebApiCoches\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:40.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Views\\Coches\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApiCoches\\Views\\Coches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\WebApiCoches\\Views\\Coches\\Index.cshtml",
+              "RelativeToolTip": "WebApiCoches\\Views\\Coches\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T03:15:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogica.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Negocio\\ILogica.cs",
+              "RelativeDocumentMoniker": "Negocio\\ILogica.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Negocio\\ILogica.cs",
+              "RelativeToolTip": "Negocio\\ILogica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Entidades\\Coche.cs",
+              "RelativeDocumentMoniker": "Entidades\\Coche.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Entidades\\Coche.cs",
+              "RelativeToolTip": "Entidades\\Coche.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:25.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bitacora.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Entidades\\Bitacora.cs",
+              "RelativeDocumentMoniker": "Entidades\\Bitacora.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\Entidades\\Bitacora.cs",
+              "RelativeToolTip": "Entidades\\Bitacora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:22.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\AccesoDatos\\IAccesoDatos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\IAccesoDatos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\AccesoDatos\\IAccesoDatos.cs",
+              "RelativeToolTip": "AccesoDatos\\IAccesoDatos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccesoMongoDB.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\AccesoDatos\\AccesoMongoDB.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoMongoDB.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Solucion_Registro_Coches_Backend\\AccesoDatos\\AccesoMongoDB.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoMongoDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:15:00.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

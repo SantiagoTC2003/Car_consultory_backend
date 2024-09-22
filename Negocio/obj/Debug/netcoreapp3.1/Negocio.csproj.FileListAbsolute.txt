@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\admin\source\repos\Solucion_Registro_Coches_Backend\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
